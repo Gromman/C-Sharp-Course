@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3", "Lesson3\Lesson3.csproj", "{9D5DC2C1-D8FB-4718-B62B-E0773AD71FA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3.2", "Lesson3.2\Lesson3.2.csproj", "{3D9011C7-C97D-403E-921F-E3E6FF0128A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3.3", "Lesson3.3\Lesson3.3.csproj", "{253C402D-B462-4934-B8CB-C3B591129194}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D5DC2C1-D8FB-4718-B62B-E0773AD71FA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D5DC2C1-D8FB-4718-B62B-E0773AD71FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D5DC2C1-D8FB-4718-B62B-E0773AD71FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D5DC2C1-D8FB-4718-B62B-E0773AD71FA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D9011C7-C97D-403E-921F-E3E6FF0128A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D9011C7-C97D-403E-921F-E3E6FF0128A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D9011C7-C97D-403E-921F-E3E6FF0128A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D9011C7-C97D-403E-921F-E3E6FF0128A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{253C402D-B462-4934-B8CB-C3B591129194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{253C402D-B462-4934-B8CB-C3B591129194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{253C402D-B462-4934-B8CB-C3B591129194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{253C402D-B462-4934-B8CB-C3B591129194}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98FCE163-ED0D-45D0-A413-CA34C0A62200}
+	EndGlobalSection
+EndGlobal
