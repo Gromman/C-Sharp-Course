@@ -1,0 +1,13 @@
+D:\Lessons\Leson1\Lessons\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.exe
+D:\Lessons\Leson1\Lessons\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.deps.json
+D:\Lessons\Leson1\Lessons\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.runtimeconfig.json
+D:\Lessons\Leson1\Lessons\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.runtimeconfig.dev.json
+D:\Lessons\Leson1\Lessons\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.dll
+D:\Lessons\Leson1\Lessons\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.pdb
+D:\Lessons\Leson1\Lessons\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.csprojAssemblyReference.cache
+D:\Lessons\Leson1\Lessons\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.AssemblyInfoInputs.cache
+D:\Lessons\Leson1\Lessons\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.AssemblyInfo.cs
+D:\Lessons\Leson1\Lessons\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.csproj.CoreCompileInputs.cache
+D:\Lessons\Leson1\Lessons\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.dll
+D:\Lessons\Leson1\Lessons\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.pdb
+D:\Lessons\Leson1\Lessons\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.genruntimeconfig.cache
