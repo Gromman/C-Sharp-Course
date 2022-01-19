@@ -1,0 +1,13 @@
+D:\Cod\2021 C# practice\NestST\less2\Lesson2\Lesson2\bin\Debug\netcoreapp3.1\Lesson2.exe
+D:\Cod\2021 C# practice\NestST\less2\Lesson2\Lesson2\bin\Debug\netcoreapp3.1\Lesson2.deps.json
+D:\Cod\2021 C# practice\NestST\less2\Lesson2\Lesson2\bin\Debug\netcoreapp3.1\Lesson2.runtimeconfig.json
+D:\Cod\2021 C# practice\NestST\less2\Lesson2\Lesson2\bin\Debug\netcoreapp3.1\Lesson2.runtimeconfig.dev.json
+D:\Cod\2021 C# practice\NestST\less2\Lesson2\Lesson2\bin\Debug\netcoreapp3.1\Lesson2.dll
+D:\Cod\2021 C# practice\NestST\less2\Lesson2\Lesson2\bin\Debug\netcoreapp3.1\Lesson2.pdb
+D:\Cod\2021 C# practice\NestST\less2\Lesson2\Lesson2\obj\Debug\netcoreapp3.1\Lesson2.csprojAssemblyReference.cache
+D:\Cod\2021 C# practice\NestST\less2\Lesson2\Lesson2\obj\Debug\netcoreapp3.1\Lesson2.AssemblyInfoInputs.cache
+D:\Cod\2021 C# practice\NestST\less2\Lesson2\Lesson2\obj\Debug\netcoreapp3.1\Lesson2.AssemblyInfo.cs
+D:\Cod\2021 C# practice\NestST\less2\Lesson2\Lesson2\obj\Debug\netcoreapp3.1\Lesson2.csproj.CoreCompileInputs.cache
+D:\Cod\2021 C# practice\NestST\less2\Lesson2\Lesson2\obj\Debug\netcoreapp3.1\Lesson2.dll
+D:\Cod\2021 C# practice\NestST\less2\Lesson2\Lesson2\obj\Debug\netcoreapp3.1\Lesson2.pdb
+D:\Cod\2021 C# practice\NestST\less2\Lesson2\Lesson2\obj\Debug\netcoreapp3.1\Lesson2.genruntimeconfig.cache
